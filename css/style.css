@@ -1,0 +1,20 @@
+/* This
+is
+a comment! */
+
+/* syntax
+
+selector {
+  property: value;
+  property: value;
+}
+
+*/
+
+/* All prop: val; pairs end with a semicolon */
+
+p { /*select all <p> */
+  font-size: 16px; /* 16px, ?pt, 100%, 1em */
+  line-height: 1.5em;
+}
+
