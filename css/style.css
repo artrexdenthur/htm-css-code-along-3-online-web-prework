@@ -27,3 +27,7 @@ figcaption {
   color: #777;
 }
 
+/* Class selector (applies to as many elements as you'd like) */
+
+.milk-text { /* selects elements with class="milk-text" */
+  font: bold 2.6em ;
