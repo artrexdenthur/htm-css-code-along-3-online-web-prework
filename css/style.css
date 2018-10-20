@@ -37,4 +37,10 @@ figcaption {
 
 /* ID selector (can apply to one elements per page) */
 
-
+#logo { /* select elements with id="logo" */
+  background: aqua;
+}
+  
+#logo h1 { /* selects h1s inside a "logo" */
+  font-family: 'Elsie Swash Caps', cursive;
+}
